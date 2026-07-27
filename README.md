@@ -15,7 +15,7 @@ ConnectHub is a Complete one to one and group Real-Time chatting application. Us
 Clone the project
 
 ```bash
-  git clone https://github.com/DeeptanshNagar/Chit_Chat.git
+  git clone https://github.com/DeeptanshNagar/ConnectHub.git
 ```
 
 Go to the project directory
