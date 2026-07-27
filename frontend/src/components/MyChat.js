@@ -219,7 +219,7 @@ const MyChat = ({ fetchAgain, setFetchAgain }) => {
             </FormControl>
             <FormControl>
               <Input
-                placeholder="Add Users eg: John, Amrit, Jane"
+                placeholder="Add Users eg: John, Deeptansh, Jane"
                 mb={1}
                 onChange={(e) => handleSearch(e.target.value)}
               />
