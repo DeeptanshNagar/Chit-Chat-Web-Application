@@ -48,35 +48,6 @@ Start the Client
   npm start
 ```
 
-# Features
-
-**Authentication** 
-<br />
-
-**Real Time Chatting with Typing indicators**
-
-![Test Image 5](https://res.cloudinary.com/amritrajmaurya/image/upload/v1648135443/8_lyhbpl.png)
-
-**One to One chat**
-
-![Test Image 5](https://res.cloudinary.com/amritrajmaurya/image/upload/v1648135219/3_mgabkf.png)
-
-**Search Users**
-
-![Test Image 5](https://res.cloudinary.com/amritrajmaurya/image/upload/v1648135226/5_hrx2nl.png)
-
-**Create Group Chats**
-
-![Test Image 5](https://res.cloudinary.com/amritrajmaurya/image/upload/v1648135233/6_lnqhak.png)
-
-**Notifications**
-
-![Test Image 5](https://res.cloudinary.com/amritrajmaurya/image/upload/v1648135443/8_lyhbpl.png)
-
-
-
-
-
 ## Made By
 
 - [@DeeptanshNagar](https://www.linkedin.com/in/deeptansh-nagar-a07277298/)
