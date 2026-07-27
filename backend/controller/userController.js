@@ -86,7 +86,7 @@ const changePassword = async (req, res) => {
 
     }
 }
-// /api/user/all-user?search=amrit 
+// /api/user/all-user?search=deeptansh 
 const allUsers = async (req, res) => {
     const keyword = req.query.search
         ? {

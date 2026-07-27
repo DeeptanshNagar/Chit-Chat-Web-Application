@@ -294,7 +294,7 @@ const SideBar = () => {
                         </MDBTypography>
                         <MDBBtn color='danger' className='mt-3' onClick={onClose}>Close</MDBBtn>
                         <br />
-                        <small className='footer'>Developed by © <a className='footerLink' href="https://amritraj.live" target="_blank">Amrit Raj</a> 2022.</small>
+                        <small className='footer'>Developed by © <a className='footerLink' href="https://github.com/DeeptanshNagar" target="_blank">Deeptansh Nagar</a> 2022.</small>
                     </ModalBody>
 
                 </ModalContent>

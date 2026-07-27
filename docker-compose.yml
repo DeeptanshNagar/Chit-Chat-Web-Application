@@ -10,7 +10,7 @@ services:
     volumes:
       - ./frontend/src:/app/src:ro
     environment:
-      - REACT_APP_NAME=amrit
+      - REACT_APP_NAME=deeptansh
     networks:
       - mern-stact-network
     depends_on:

@@ -10,7 +10,7 @@
   "keywords": [
     "chatapp"
   ],
-  "author": "Amrit Raj",
+  "author": "Deeptansh Nagar",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",

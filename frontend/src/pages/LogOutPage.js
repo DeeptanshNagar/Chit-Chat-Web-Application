@@ -34,8 +34,8 @@ function Copyright(props) {
       {'Developed by © '}
       <a style={{
         textDecoration: "underline"
-      }} color="inherit" target="_blank" href="https://amritraj.live/">
-        Amrit Raj
+      }} color="inherit" target="_blank" href="https://github.com/DeeptanshNagar">
+        Deeptansh Nagar
       </a>{' '}
       {new Date().getFullYear()}
       {'.'}
