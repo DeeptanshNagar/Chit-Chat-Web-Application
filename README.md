@@ -21,7 +21,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Chit_Chat
+  cd ConnectHub
 ```
 
 Install dependencies
