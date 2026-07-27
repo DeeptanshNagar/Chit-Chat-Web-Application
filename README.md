@@ -83,4 +83,4 @@ Start the Client
 
 ## Made By
 
-- [@amritmaurya1504](https://github.com/DeeptanshNagar)
+- [@DeeptanshNagar](https://github.com/DeeptanshNagar)
