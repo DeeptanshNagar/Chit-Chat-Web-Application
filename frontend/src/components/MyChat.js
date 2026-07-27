@@ -15,7 +15,7 @@ import { Tooltip } from "@chakra-ui/tooltip";
 import { useDisclosure } from "@chakra-ui/hooks";
 import UserListItem from './UserListItem';
 import UserBadgeItem from './UserBadgeItem';
-import {
+import { 
   Modal,
   ModalOverlay,
   ModalContent,
