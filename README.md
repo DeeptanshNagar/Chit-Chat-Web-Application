@@ -50,5 +50,5 @@ Start the Client
 
 ## Made By
 
-- [@DeeptanshNagar](https://www.linkedin.com/in/deeptansh-nagar-a07277298/)
-- [Deeptansh Nagar](https://github.com/DeeptanshNagar)
+- [LinkedIN](https://www.linkedin.com/in/deeptansh-nagar-a07277298/)
+- [GitHub](https://github.com/DeeptanshNagar)
