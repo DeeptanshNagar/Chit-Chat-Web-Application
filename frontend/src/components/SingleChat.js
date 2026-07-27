@@ -11,7 +11,7 @@ import axios from 'axios';
 import EmojiEmotionsIcon from '@mui/icons-material/EmojiEmotions';
 import Picker from 'emoji-picker-react';
 import {
-    Modal,
+    Modal, 
     ModalOverlay,
     ModalContent,
     ModalHeader,
