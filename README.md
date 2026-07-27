@@ -53,10 +53,6 @@ Start the Client
 **Authentication** 
 <br />
 
-
-![Test Image 5](https://res.cloudinary.com/amritrajmaurya/image/upload/v1648135207/1_gfnev8.png)
-![Test Image 5](https://res.cloudinary.com/amritrajmaurya/image/upload/v1648135213/2_gsnv1n.png)
-
 **Real Time Chatting with Typing indicators**
 
 ![Test Image 5](https://res.cloudinary.com/amritrajmaurya/image/upload/v1648135443/8_lyhbpl.png)
