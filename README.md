@@ -1,6 +1,6 @@
 # Connect Hub
 
-ConnectHub is a Complete one to one and group Real-Time chatting application. Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
+ConnectHub is a Complete one to one and group Real-Time chatting application. Uses Socket.io for real time communication and stores user details in encrypted format in Couch DB Database.
 
 ## Tech Stack Used.
 
@@ -8,7 +8,7 @@ ConnectHub is a Complete one to one and group Real-Time chatting application. Us
 
 **Server:** Node JS, Express JS, Socket.io
 
-**Database:** Mongo DB
+**Database:** Couch DB
 
 ## Run Locally
 
